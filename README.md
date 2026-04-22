@@ -1,0 +1,2 @@
+# MarketSense-AI-Automated-Executive-Intelligence-Pipeline
+MarketSense-AI is a data engineering pipeline transforming raw market data into executive narratives. It orchestrates a flow between Python, BigQuery, and Zapier to automate reporting. The system uses a write-back architecture where cleaned data triggers an AI to synthesize 90-day trends into insights for a premium Looker Studio dashboard.
